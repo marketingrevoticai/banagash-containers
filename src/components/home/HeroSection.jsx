@@ -207,8 +207,8 @@
 
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import hero1 from "../../assets/images/hero/hero1.png";
-import hero2 from "../../assets/images/hero/hero2.jpg";
+import hero1 from "../../assets/images/hero/hero5.png";
+import hero2 from "../../assets/images/hero/hero4.jpg";
 import hero3 from "../../assets/images/hero/hero3.webp";
 import hero4 from "../../assets/images/hero/hero2.1.jpg";
 import hero5 from "../../assets/images/hero/Office.webp";
