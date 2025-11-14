@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Home, MessageCircle, Mail, PhoneCall, Globe, X } from "lucide-react";
 import banner from "/public/assets/images/WhyChooseUs/BCHOffice.jpg";; // banner image
-import proj1 from"/public/assets/images/WhyChooseUs/ContainerHall.jpg"; // replace these with your real images
+import proj1 from"/public/assets/images/WhyChooseUs/containerhall.jpg"; // replace these with your real images
 import proj2 from "/public/assets/images/WhyChooseUs/ContainerHome.jpg";
 import proj3 from "/public/assets/images/WhyChooseUs/ContainerOffice.jpg";
 import proj4 from "/public/assets/images/WhyChooseUs/PrefabCabin.jpg";

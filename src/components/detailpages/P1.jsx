@@ -3,7 +3,7 @@ import { Facebook, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 // 🖼️ Import all images
-import mainImg from "/src/assets/images/product1/ContainerHall.jpg";
+import mainImg from "/src/assets/images/product1/containerhall.jpg";
 import interior1 from "/src/assets/images/product1/containerhallint.jpg";
 import interior2 from "/src/assets/images/product1/containerhallint2.jpg";
 import interior3 from "/src/assets/images/product1/containerhallint3.jpg";
